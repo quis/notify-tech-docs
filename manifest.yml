@@ -1,6 +1,6 @@
 ---
 applications:
-- name: notify-tech-docs
+- name: notifications-tech-docs
   memory: 64M
   path: ./build
   buildpack: staticfile_buildpack
