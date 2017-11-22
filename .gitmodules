@@ -1,0 +1,18 @@
+[submodule "source/documentation/.clients/notifications-java-client"]
+	path = source/documentation/.clients/notifications-java-client
+	url = git@github.com:alphagov/notifications-java-client.git
+[submodule "source/documentation/.clients/notifications-python-client"]
+	path = source/documentation/.clients/notifications-python-client
+	url = git@github.com:alphagov/notifications-python-client.git
+[submodule "source/documentation/.clients/notifications-ruby-client"]
+	path = source/documentation/.clients/notifications-ruby-client
+	url = git@github.com:alphagov/notifications-ruby-client.git
+[submodule "source/documentation/.clients/notifications-php-client"]
+	path = source/documentation/.clients/notifications-php-client
+	url = git@github.com:alphagov/notifications-php-client.git
+[submodule "source/documentation/.clients/notifications-net-client"]
+	path = source/documentation/.clients/notifications-net-client
+	url = git@github.com:alphagov/notifications-net-client.git
+[submodule "source/documentation/.clients/notifications-node-client"]
+	path = source/documentation/.clients/notifications-node-client
+	url = git@github.com:alphagov/notifications-node-client.git
